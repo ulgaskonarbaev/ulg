@@ -13,7 +13,7 @@ namespace ConsoleApp1
         public DateTime StartDate { get; set; }
 
         public DateTime CompletionData { get; set; }
-
+\\l;,;;l,;,;l
         public string Status { get; set; }
 
         public int Priority { get; set; }
